@@ -5,7 +5,7 @@
       "roedl.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -16,7 +16,7 @@
       "bakerdonelson.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -27,7 +27,7 @@
       "dechert.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -38,7 +38,7 @@
       "seyfarth.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -49,7 +49,7 @@
       "debevoise.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -60,7 +60,7 @@
       "susmangodfrey.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf",
@@ -75,7 +75,7 @@
       "twobirds.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -86,7 +86,7 @@
       "dacbeachcroft.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -97,7 +97,7 @@
       "macfarlanes.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -108,7 +108,7 @@
       "zhonglun.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -119,7 +119,7 @@
       "nixonpeabody.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -130,7 +130,7 @@
       "cooley.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160"
       ],
@@ -143,7 +143,7 @@
       "stinson.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -154,7 +154,7 @@
       "katten.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -165,7 +165,7 @@
       "herbertsmithfreehills.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -176,7 +176,7 @@
       "clearygottlieb.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -187,7 +187,7 @@
       "clydeco.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -198,7 +198,7 @@
       "nortonrosefulbright.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -211,7 +211,7 @@
       "hfw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -222,7 +222,7 @@
       "tahota.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -233,7 +233,7 @@
       "milbank.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://www.reuters.com/world/us/trump-reaches-agreement-with-milbank-law-firm-2025-04-02/",
@@ -247,7 +247,7 @@
       "foleyhoag.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -261,7 +261,7 @@
       "manatt.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
       ],
@@ -274,7 +274,7 @@
       "omm.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -285,7 +285,7 @@
       "mccarthy.ca"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -296,7 +296,7 @@
       "kirkland.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
@@ -311,7 +311,7 @@
       "foley.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -322,7 +322,7 @@
       "littler.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -333,7 +333,7 @@
       "winston.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -344,7 +344,7 @@
       "uria.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -355,7 +355,7 @@
       "osborneclarke.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -366,7 +366,7 @@
       "fr.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -377,7 +377,7 @@
       "cuatrecasas.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -388,7 +388,7 @@
       "goodwinlaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -399,7 +399,7 @@
       "blankrome.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -410,7 +410,7 @@
       "steptoe.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -421,7 +421,7 @@
       "clarkhill.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -432,7 +432,7 @@
       "dwfgroup.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -443,7 +443,7 @@
       "dwt.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -457,7 +457,7 @@
       "hoganlovells.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -468,7 +468,7 @@
       "duanemorris.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -479,7 +479,7 @@
       "bracewell.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -492,7 +492,7 @@
       "stikeman.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -503,7 +503,7 @@
       "fenwick.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -517,7 +517,7 @@
       "pinsentmasons.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -528,7 +528,7 @@
       "mto.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://abovethelaw.com/2025/03/reminder-its-not-biglaw-leading-the-defense-of-the-rule-of-law/"
       ],
@@ -541,7 +541,7 @@
       "whitecase.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -554,7 +554,7 @@
       "blg.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -565,7 +565,7 @@
       "hengeler.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -576,7 +576,7 @@
       "dehenglaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -587,7 +587,7 @@
       "mintz.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -598,7 +598,7 @@
       "vedderprice.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -609,7 +609,7 @@
       "allbrightlaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -620,7 +620,7 @@
       "irwinmitchell.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -631,7 +631,7 @@
       "bakermckenzie.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -642,7 +642,7 @@
       "venable.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -653,7 +653,7 @@
       "torys.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -664,7 +664,7 @@
       "mcguirewoods.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -675,7 +675,7 @@
       "gowlingwlg.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -686,7 +686,7 @@
       "pillsbury.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -699,7 +699,7 @@
       "honigman.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -710,7 +710,7 @@
       "cliffordchance.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -721,7 +721,7 @@
       "shb.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -732,7 +732,7 @@
       "sidley.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://www.law.com/americanlawyer/2025/03/07/big-law-firms-have-quietly-removed-dei-website-language-altered-diversity-policies-/"
       ],
       "anti-admin": [],
@@ -745,7 +745,7 @@
       "alston.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -756,7 +756,7 @@
       "noerr.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -767,7 +767,7 @@
       "wlrk.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -780,7 +780,7 @@
       "cozen.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -791,7 +791,7 @@
       "hollandhart.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -802,7 +802,7 @@
       "corrs.com.au"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -813,7 +813,7 @@
       "ashurst.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -824,7 +824,7 @@
       "cov.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -838,7 +838,7 @@
       "buchalter.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -849,7 +849,7 @@
       "belex.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -860,7 +860,7 @@
       "lowenstein.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -871,7 +871,7 @@
       "kutakrock.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -882,7 +882,7 @@
       "junhe.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -893,7 +893,7 @@
       "garrigues.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -904,7 +904,7 @@
       "loyensloeff.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -915,7 +915,7 @@
       "robinskaplan.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -926,7 +926,7 @@
       "nelsonmullins.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -939,7 +939,7 @@
       "wc.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.nytimes.com/2025/03/12/us/politics/trump-law-firms-perkins-coie.html"
       ],
@@ -952,7 +952,7 @@
       "bakerbotts.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -963,7 +963,7 @@
       "allens.com.au"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -974,7 +974,7 @@
       "taylorwessing.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -985,7 +985,7 @@
       "kramerlevin.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -996,7 +996,7 @@
       "leeko.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1007,7 +1007,7 @@
       "srz.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1018,7 +1018,7 @@
       "withersworldwide.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1029,7 +1029,7 @@
       "grandall.com.cn"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1040,7 +1040,7 @@
       "mayerbrown.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1051,7 +1051,7 @@
       "millerthomson.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1062,7 +1062,7 @@
       "yingke.cz"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1073,7 +1073,7 @@
       "kimchang.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1084,7 +1084,7 @@
       "blakes.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1095,7 +1095,7 @@
       "dentons.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1108,7 +1108,7 @@
       "dickinson-wright.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1119,7 +1119,7 @@
       "jonesday.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1130,7 +1130,7 @@
       "arnoldporter.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -1144,7 +1144,7 @@
       "choate.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1155,7 +1155,7 @@
       "bclplaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1166,7 +1166,7 @@
       "weil.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1177,7 +1177,7 @@
       "gunder.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1188,7 +1188,7 @@
       "proskauer.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1199,7 +1199,7 @@
       "cadwalader.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
@@ -1213,7 +1213,7 @@
       "winstead.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1224,7 +1224,7 @@
       "bradley.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1235,7 +1235,7 @@
       "faegredrinker.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1246,7 +1246,7 @@
       "akerman.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1259,7 +1259,7 @@
       "ropesgray.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1272,7 +1272,7 @@
       "hklaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1283,7 +1283,7 @@
       "fisherphillips.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1296,7 +1296,7 @@
       "gtlaw.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1309,7 +1309,7 @@
       "addleshawgoddard.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1320,7 +1320,7 @@
       "velaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1331,7 +1331,7 @@
       "jacksonlewis.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1342,7 +1342,7 @@
       "sullcrom.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://www.newyorker.com/news/the-lede/how-donald-trump-throttled-big-law"
@@ -1355,7 +1355,7 @@
       "slaughterandmay.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1366,7 +1366,7 @@
       "dlapiper.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://abovethelaw.com/2025/04/dla-pipers-excuse-for-cracking-down-on-diversity-as-embarrassing-as-youd-think-it-is/",
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
@@ -1380,7 +1380,7 @@
       "btlaw.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1393,7 +1393,7 @@
       "polsinelli.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1404,7 +1404,7 @@
       "dinsmore.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1415,7 +1415,7 @@
       "orrick.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1426,7 +1426,7 @@
       "crowell.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -1440,7 +1440,7 @@
       "dorsey.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1451,7 +1451,7 @@
       "lw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
@@ -1465,7 +1465,7 @@
       "stblaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
@@ -1479,7 +1479,7 @@
       "lewisbrisbois.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1490,7 +1490,7 @@
       "reedsmith.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1501,7 +1501,7 @@
       "kslaw.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1514,7 +1514,7 @@
       "saul.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1525,7 +1525,7 @@
       "bipc.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1536,7 +1536,7 @@
       "willkie.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://abovethelaw.com/2025/04/willkie-farr-surrenders-to-trump/",
@@ -1550,7 +1550,7 @@
       "kennedyslaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1561,7 +1561,7 @@
       "bakerlaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1572,7 +1572,7 @@
       "fidal.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1583,7 +1583,7 @@
       "simmons-simmons.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1594,7 +1594,7 @@
       "linklaters.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1605,7 +1605,7 @@
       "finnegan.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1616,7 +1616,7 @@
       "ogletree.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1627,7 +1627,7 @@
       "haynesboone.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1638,7 +1638,7 @@
       "fragomen.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1650,7 +1650,7 @@
       "cmslegal.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1661,7 +1661,7 @@
       "friedfrank.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1672,7 +1672,7 @@
       "ktslaw.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1685,7 +1685,7 @@
       "davispolk.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1696,7 +1696,7 @@
       "quarles.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1707,7 +1707,7 @@
       "afslaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1718,7 +1718,7 @@
       "eversheds-sutherland.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1729,7 +1729,7 @@
       "ballardspahr.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1742,7 +1742,7 @@
       "hunton.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1753,7 +1753,7 @@
       "wilsonelser.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1764,7 +1764,7 @@
       "troutman.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1775,7 +1775,7 @@
       "jenner.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160",
@@ -1790,7 +1790,7 @@
       "fieldfisher.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1801,7 +1801,7 @@
       "wfw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1812,7 +1812,7 @@
       "freshfields.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67f3f782437ea8038058313e_LawFirmsAmicus-v2.pdf"
@@ -1826,7 +1826,7 @@
       "mishcon.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1837,7 +1837,7 @@
       "kwm.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1848,7 +1848,7 @@
       "gide.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1859,7 +1859,7 @@
       "huschblackwell.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1870,7 +1870,7 @@
       "jingsh.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1881,7 +1881,7 @@
       "loeb.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1892,7 +1892,7 @@
       "taftlaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1903,7 +1903,7 @@
       "fangdalaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1914,7 +1914,7 @@
       "quinnemanuel.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://www.law.com/americanlawyer/2025/03/28/with-a-skadden-deal-imminent-how-are-law-firms-getting-a-foot-in-the-door/"
@@ -1927,7 +1927,7 @@
       "squirepattonboggs.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://www.law.com/americanlawyer/2025/03/07/big-law-firms-have-quietly-removed-dei-website-language-altered-diversity-policies-/"
       ],
       "anti-admin": [],
@@ -1940,7 +1940,7 @@
       "gibsondunn.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -1953,7 +1953,7 @@
       "minterellison.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1964,7 +1964,7 @@
       "mofo.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1975,7 +1975,7 @@
       "bkl.co.kr"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1986,7 +1986,7 @@
       "akingump.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -1997,7 +1997,7 @@
       "claytonutz.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2008,7 +2008,7 @@
       "jw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2019,7 +2019,7 @@
       "foxrothschild.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -2032,7 +2032,7 @@
       "womblebonddickinson.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2043,7 +2043,7 @@
       "klgates.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -2056,7 +2056,7 @@
       "sheppardmullin.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2068,7 +2068,7 @@
       "perkinscoiefacts.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://cdn.prod.website-files.com/67cf71f1f27ef68a8f5c5c70/67d098cae5905f455b133083_PerkinsCoieFiling1.pdf",
         "https://www.nytimes.com/2025/04/04/business/law-firms-perkins-coie-trump.html"
@@ -2082,7 +2082,7 @@
       "osler.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2093,7 +2093,7 @@
       "cravath.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2104,7 +2104,7 @@
       "morganlewis.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -2117,7 +2117,7 @@
       "mcdermott.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -2131,7 +2131,7 @@
       "aoshearman.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://abovethelaw.com/2025/04/five-top-biglaw-firms-pledge-their-allegiance-to-trump-promising-to-provide-legal-services-beyond-his-time-in-the-white-house/",
@@ -2145,7 +2145,7 @@
       "mattosfilho.com.br"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2156,7 +2156,7 @@
       "frostbrowntodd.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2167,7 +2167,7 @@
       "skadden.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://www.cbsnews.com/news/law-firm-skadden-cuts-100-million-pro-bono-deal-trump-avoid-executive-order/",
@@ -2181,7 +2181,7 @@
       "paulweiss.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": [
         "https://apnews.com/article/trump-law-firm-security-clearances-4e0a8f152ccfea86ae2c383bfc41c586",
@@ -2195,7 +2195,7 @@
       "wsgr.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2206,7 +2206,7 @@
       "wilmerhale.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [
         "https://www.reuters.com/world/us/law-firms-back-perkins-coie-lawsuit-against-punitive-trump-order-2025-04-04/",
         "https://www.politico.com/news/2025/03/28/jenner-block-eo-lawsuit-trump-00256160",
@@ -2221,7 +2221,7 @@
       "grsm.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2232,7 +2232,7 @@
       "bennettjones.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2243,7 +2243,7 @@
       "fasken.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2254,7 +2254,7 @@
       "cahill.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2265,7 +2265,7 @@
       "weihenglawfirm.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2276,7 +2276,7 @@
       "stephensonharwood.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
@@ -2287,7 +2287,7 @@
       "paulhastings.com"
     ],
     "actions": {
-      "anti-dei": [
+      "dei-change": [
         "https://docs.google.com/spreadsheets/u/0/d/1J_bcoMqt46L05As7GN4ZqH4j6XKeI-Dm4ytJPRFtrwo/htmlview#gid=287708862"
       ],
       "anti-admin": [],
@@ -2300,7 +2300,7 @@
       "swlaw.com"
     ],
     "actions": {
-      "anti-dei": [],
+      "dei-change": [],
       "anti-admin": [],
       "pro-admin": []
     }
