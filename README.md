@@ -1,3 +1,5 @@
+![BadLaw icon](icons/icon.png)
+
 # BadLaw
 
 A browser extension that adds a banner to law firm websites based on their publicly documented responses to the Trump administration.
